@@ -4,7 +4,7 @@ Este projeto fornece uma API RESTful para controlar débitos e créditos em uma 
 
 ## Visão Geral da Arquitetura
 
-![Fluxo](https://github.com/leandrobg/CarrefourBankTest/blob/main/Fluxo.png)
+![Fluxo](https://github.com/leandrobg/CarrefourBankTest/blob/main/FluxoArq.png)
 
 O projeto segue a arquitetura DDD, que separa o código em várias camadas para obter uma estrutura clara e modular:
 
