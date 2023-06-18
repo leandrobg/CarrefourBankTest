@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrefourBankTest.Domain", "CarrefourBankTest.Domain\CarrefourBankTest.Domain.csproj", "{7B371A65-D3A0-4E50-B0A6-AEEA9E3E18DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrefourBankTest.Application", "CarrefourBankTest.Application\CarrefourBankTest.Application.csproj", "{4C2D5C80-AF61-4E94-B9C8-E63075B73FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrefourBankTest.Infrastructure", "CarrefourBankTest.Infrastructure\CarrefourBankTest.Infrastructure.csproj", "{EB99B22B-E1D7-4304-8049-44D4683FD3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrefourBankTest.Api", "CarrefourBankTest.Api\CarrefourBankTest.Api.csproj", "{EE9592D5-A5D6-4151-A702-1254076A4B11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrefourBankTest.UnitTests", "CarrefourBankTest.UnitTests\CarrefourBankTest.UnitTests.csproj", "{7D4C4919-093B-4623-AD2A-5765B5BE07A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B371A65-D3A0-4E50-B0A6-AEEA9E3E18DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B371A65-D3A0-4E50-B0A6-AEEA9E3E18DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B371A65-D3A0-4E50-B0A6-AEEA9E3E18DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B371A65-D3A0-4E50-B0A6-AEEA9E3E18DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2D5C80-AF61-4E94-B9C8-E63075B73FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2D5C80-AF61-4E94-B9C8-E63075B73FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2D5C80-AF61-4E94-B9C8-E63075B73FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2D5C80-AF61-4E94-B9C8-E63075B73FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB99B22B-E1D7-4304-8049-44D4683FD3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB99B22B-E1D7-4304-8049-44D4683FD3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB99B22B-E1D7-4304-8049-44D4683FD3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB99B22B-E1D7-4304-8049-44D4683FD3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9592D5-A5D6-4151-A702-1254076A4B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9592D5-A5D6-4151-A702-1254076A4B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9592D5-A5D6-4151-A702-1254076A4B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9592D5-A5D6-4151-A702-1254076A4B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4C4919-093B-4623-AD2A-5765B5BE07A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4C4919-093B-4623-AD2A-5765B5BE07A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4C4919-093B-4623-AD2A-5765B5BE07A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4C4919-093B-4623-AD2A-5765B5BE07A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73555514-BC16-4010-A2F3-9E517B2EE810}
+	EndGlobalSection
+EndGlobal
